@@ -3,7 +3,7 @@ class Solution:
             #type center: int
             #type res: tuples of int
             #return type: float
-            value = (center- 0) * (1 - (-1))/(res[0] - 0) + 0
+            value = ((center- 0) * ((1 - (-1))/(res[0] - 0))) + 0
             return value
             #TODO: Write code below to return a float with the solution to the prompt.
             pass
